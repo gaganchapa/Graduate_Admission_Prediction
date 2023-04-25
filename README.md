@@ -9,3 +9,5 @@ The parameters included are :
 5. Undergraduate GPA ( out of 10 )
 6. Research Experience ( either 0 or 1 )
 7. Chance of Admit ( ranging from 0 to 1 )
+
+Dataset Link: https://www.kaggle.com/datasets/mohansacharya/graduate-admissions
